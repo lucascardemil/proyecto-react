@@ -1,0 +1,11 @@
+.confirmar{
+    background-color: green;
+    padding: 20px;
+    color: white;
+}
+
+.cancelar{
+    background-color: red;
+    padding: 20px;
+    color: white;
+}
